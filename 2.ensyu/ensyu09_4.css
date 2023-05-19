@@ -1,0 +1,6 @@
+.header {text-align: center;}
+.contact-from {display: flex; flex-direction: column; max-width: 500px; margin: 0 auto;}
+.from-title {margin-bottom: 2px; font-size: 1.2rem;}
+.contact-item input {padding: 5px; border-radius: 5px; border: 1px solid #ccc; width 100%;}
+.contact-item select {padding 5px; border-radius: 5px; border: 1px solid #ccc; width 60%}
+.contact-item textarea {padding 5px; border-radius: 5px; border: 1px solid #ccc; height: 100px; width 100%}
